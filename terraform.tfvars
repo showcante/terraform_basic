@@ -1,6 +1,5 @@
 env_prefix         = "teste"
-vpc_cidr_block     = "10.0.0.0/16"
 az                 = "us-east-1a"
-subnet_cidr_block1 = "10.0.1.0/24"
-subnet_cidr_block2 = "10.0.2.0/24"
 instance_type      = "t2.micro"
+ami                = "ami-04505e74c0741db8d"
+public_key         = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC+9vCBlVZ5cuhfzFvMWCzTS5F8CpX/ZPGR6B5wFU3xfFjvJPB3Ytp1U/zwGIF1S8xohlr9uyJKsZAMD/oNaauMoo5zGihFj7fFkXxi57Vg1PTxEa94SYh861rAl67NOK7rrl+UzOxa2XBASDceb93avUVUwFsHjJmVQt4pRqp/Dx+c6a/C93pU2j5wFUwNOrQXREQPCXJzgUHioEFMST6EJnRCbjpjJh3iMR92FUj3ATomH3pKhlnyunJHO9XwJM4FWbHSsMYuyZarwsSdZrEwPmmyt3L1snYpjr5i9gA4QmWQvwza/MWC1brO88iaUc15oEpkJh3PnWg6ge9DLv3IJ68doHtQXAMbEN2F3ZFW+Z2Xtht0R5I8Fi5wA4yYaMdx2Xz7S926s9A1zcI1MYgqT/D0Ekcea7yfCxj+VHOEQYMtcSwXviYya+SoVyXLPXH3xgfMEoxLKDQIdWyRb0lY+C3cyVeqHLAZRsbanaCtWPVVrN6GBz3XRwSENdlDY6c= dennis@DennisROG"

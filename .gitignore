@@ -4,10 +4,15 @@
 # tf state files
  *.tfstate
  *.tfstate.*
-
+terraform.tfstate.backup
+terraform.tfstate
+.terraform.lock.hcl
 # tf variables files, may include sensitive data
  *.tfvars
 
 # Key pairs
 teste.pem
 teste.pub
+
+#other
+entry-script.sh
