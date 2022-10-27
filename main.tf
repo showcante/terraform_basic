@@ -25,3 +25,5 @@ resource "aws_instance" "ec2_apache" {
 output "ec2_ip" {
   value = "Este é o IP da EC2, verifique se o apache esta instalado IP: '${aws_instance.ec2_apache.public_ip}'"
 }
+
+#testando RHUEIAHDIOUEHDIU CHYDIUASHDNUADHNAIUNEHasfiuHFu
